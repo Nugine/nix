@@ -7,6 +7,8 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 ### Added
 - Added `mremap` (#[1306](https://github.com/nix-rust/nix/pull/1306))
 
+- Added limited Fuchsia support (#[1285](https://github.com/nix-rust/nix/pull/1285))
+
 ### Fixed
 ### Changed
 
